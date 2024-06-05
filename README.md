@@ -63,7 +63,8 @@ significant contribution to the development and success of your projects.
 # Courses & Certificates
 
 - https://www.sololearn.com/en/profile/30553564
-- https://codepen.io/magentaka 
+- https://codepen.io/magentaka
+- https://www.cloudskillsboost.google/public_profiles/43f3139c-8ea5-44e5-817f-6f1ada9448cf
 
 # Recommended sites
 
