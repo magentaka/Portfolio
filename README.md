@@ -62,7 +62,10 @@ significant contribution to the development and success of your projects.
 
 # Courses & Certificates
 
+  Sololearn
 - https://www.sololearn.com/en/profile/30553564
+
+  Random Projects
 - https://codepen.io/magentaka
 
   Introduction to Generative AI Learning Path
