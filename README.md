@@ -62,7 +62,7 @@ significant contribution to the development and success of your projects.
 
 # Courses & Certificates
 
-  Sololearn
+    Sololearn
 - https://www.sololearn.com/en/profile/30553564
 
   Random Projects
