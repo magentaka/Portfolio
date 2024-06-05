@@ -72,7 +72,7 @@ Random Projects
 Introduction to Generative AI Learning Path
 - https://www.cloudskillsboost.google/public_profiles/43f3139c-8ea5-44e5-817f-6f1ada9448cf
 
-Playwright – Praktyczne Wprowadzenie
+Playwright – Praktyczne Wprowadzenie (https://jaktestowac.pl/)
 - in progress
 
 # Recommended sites
