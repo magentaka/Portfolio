@@ -84,6 +84,11 @@ Playwright – Praktyczne Wprowadzenie (https://jaktestowac.pl/)
 
 # Books that I recommend
 
+- Testowanie full stack. Praktyczny przewodnik dostarczania oprogramowania wysokiej jakości
+- Karmic Management: What Goes Around Comes Around in Your Business and Your Life
+- Lean In. Women, Work, and the Will to Lead
+- The 80/20 Principle: The Secret of Achieving More with Less
+
 
 
 
