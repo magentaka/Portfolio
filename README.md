@@ -31,6 +31,7 @@ significant contribution to the development and success of your projects.
 
 # Operating systems
 - Windows
+- Mac OS
   
 # Tech skills
 - Software testing
