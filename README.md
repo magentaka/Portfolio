@@ -1,7 +1,7 @@
 # Portfolio
 # About me 
 <b> Welcome </b> <br><br>
-My name is Marzena Kaniak. Over the past years, I have been involved in the field of quality assurance
+My name is Marzena. Over the past years, I have been involved in the field of quality assurance
 and testing in various industries, including  gaming industry, web development,
 mobile applications, streaming applications. I understand that the quality of software
 development is a key factor in the business success of any organization.
