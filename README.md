@@ -36,9 +36,9 @@ significant contribution to the development and success of your projects.
 # Tech skills
 - Software testing
 - DevTools
-- Soap and API testing basics
+- Soap and API testing
 - Databases basics
-- JavaScript and HTML basics
+- JavaScript and HTML
 - Python
 - Unity
 - Jenkins
