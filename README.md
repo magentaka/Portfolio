@@ -73,6 +73,9 @@ Random Projects
 Introduction to Generative AI Learning Path
 - https://www.cloudskillsboost.google/public_profiles/43f3139c-8ea5-44e5-817f-6f1ada9448cf
 
+Strefa kursów
+- https://platforma.strefakursow.pl/p/profil/Marzena-TWNXNUo0Rkt5N3ptb0x6bmx1K2dlQT09
+
 Playwright – Praktyczne Wprowadzenie (https://jaktestowac.pl/)
 - in progress
 
