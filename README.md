@@ -81,7 +81,7 @@ Playwright – Praktyczne Wprowadzenie (https://jaktestowac.pl/)
 
 # Recommended sites
 
-# Recommended podcasts
+# Podcasts that I recommend
 - https://tusietestuje.pl/
 - https://poszklanieinatestowanie.pl/
 - https://lexfridman.com/podcast/
