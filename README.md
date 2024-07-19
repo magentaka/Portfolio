@@ -87,7 +87,7 @@ Playwright – Praktyczne Wprowadzenie (https://jaktestowac.pl/)
 
 # Books that I recommend
 
-- [Full Stack Testing](#usage)
+- [Full Stack Testing](#fullstacktesting)
 - Karmic Management: What Goes Around Comes Around in Your Business and Your Life
 - Lean In. Women, Work, and the Will to Lead
 - The 80/20 Principle: The Secret of Achieving More with Less
@@ -100,7 +100,6 @@ Welcome to my project!
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Full Stack Testing](#fullstacktesting)
 - [Contributing](#contributing)
 - [License](#license)
 
