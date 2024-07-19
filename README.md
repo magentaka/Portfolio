@@ -100,7 +100,7 @@ Welcome to my project!
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Usage](#usage)
+- [Full Stack Testing](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -108,7 +108,7 @@ Welcome to my project!
 
 This is the introduction section.
 
-## Usage
+## Full Stack Testing
 
 This is the usage section.
 
