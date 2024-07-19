@@ -93,5 +93,32 @@ Playwright – Praktyczne Wprowadzenie (https://jaktestowac.pl/)
 - The 80/20 Principle: The Secret of Achieving More with Less
 
 
+# My Project
+
+Welcome to my project!
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+This is the introduction section.
+
+## Usage
+
+This is the usage section.
+
+## Contributing
+
+This is the contributing section.
+
+## License
+
+This is the license section.
+
 
 
