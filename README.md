@@ -110,9 +110,9 @@ This is the introduction section.
 ## Full Stack Testing
 
 Title: Full Stack Testing. Practical Guide to Delivering High-Quality Software
-Author: [Author's Name]
-ISBN: [Insert ISBN]
-Amazon Link: [Insert Amazon Link]
+Author: 
+ISBN: 
+Amazon Link: 
 
 Review:
 
