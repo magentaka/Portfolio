@@ -78,6 +78,9 @@ Strefa kursów
 Playwright – Praktyczne Wprowadzenie (https://jaktestowac.pl/)
 - in progress
 
+AI TESTERS vol 1.0 - Kurs Playwright + AI + MCP + Vibe Testing  (https://jaktestowac.pl/course/ai_testers-projektowanie-frameworka-i-procesow-z-ai/)
+- in progress
+
 # Recommended sites
 
 # Podcasts that I recommend
